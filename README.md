@@ -60,7 +60,7 @@ Teknolojiyi kullanarak karmaşık problemleri çözmeyi ve yenilikçi projeler �
 
 ## 🌐 Sosyal Medya & Bağlantılar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oguzinyo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oğuzhan-hekimoğlu-991682332/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oguzinyo)
 
 ---
